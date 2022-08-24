@@ -1,0 +1,26 @@
+sample,name,genotype,full_genotype,treatment,concentration,age,timepoint,time_trt,rep,date,seq_run,10X_chemistry,number of cells,number of genes detected,Median UMI counts per cell,Median number of genes detected per cell 
+sc_1,WT control,WT,WT Col-0,Control,DMSO,7_day,,Control,1,20191214,Nolan_6131,v3,9759,21844,3028,1528
+sc_2,WT BRZ control,WT,WT Col-0,BRZ,1uM,7_day,0,BRZ,1,20191214,Nolan_6131,v3,7512,22403,6274,2497
+sc_5,WT BRZ then 2 hour BL,WT,WT Col-0,BL,100nM,7_day,2,2_hour_BL,1,20191214,Nolan_6131,v3,9790,22656,5415.5,2421.5
+sc_43,WT BRZ control,WT,WT Col-0 ,BRZ,1uM,7_day,0,BRZ,2,20200212,Nolan_6199 (NextSeq); Nolan_6226 (NovaSeq S4),v3,8874,22534,4936,2071
+sc_44,WT BRZ then 30 mins BL,WT,WT Col-0 ,BL,100nM,7_day,0.5,0.5_hour_BL,2,20200212,Nolan_6199 (NextSeq); Nolan_6226 (NovaSeq S4),v3,6843,22046,6935,2441
+sc_45,WT BRZ then 1 hour BL,WT,WT Col-0 ,BL,100nM,7_day,1,1_hour_BL,2,20200212,Nolan_6199 (NextSeq); Nolan_6226 (NovaSeq S4),v3,6336,22434,5525.5,2067
+sc_46,WT BRZ then 2 hour BL,WT,WT Col-0 ,BL,100nM,7_day,2,2_hour_BL,2,20200212,Nolan_6199 (NextSeq); Nolan_6226 (NovaSeq S4),v3,6847,22490,7506,2632
+sc_47,WT BRZ then 4 hour BL,WT,WT Col-0 ,BL,100nM,7_day,4,4_hour_BL,2,20200212,Nolan_6199 (NextSeq); Nolan_6226 (NovaSeq S4),v3,6907,22893,6430,2297
+sc_48,WT BRZ then 8 hour BL,WT,WT Col-0 ,BL,100nM,7_day,8,8_hour_BL,2,20200212,Nolan_6199 (NextSeq); Nolan_6226 (NovaSeq S4),v3,6389,22873,5230,2014
+sc_49,WT BRZ then 2 hour BL,WT,WT Col-0 ,BL,100nM,7_day,2,2_hour_BL,3,20200212,Nolan_6199 (NextSeq); Nolan_6226 (NovaSeq S4),v3,5638,22567,7764,2576
+sc_50,WT BRZ control,WT,WT Col-0 ,BRZ,1uM,7_day,0,BRZ,3,20200212,Nolan_6199 (NextSeq); Nolan_6226 (NovaSeq S4),v3,5087,22014,6800,2310
+sc_122,WT,WT,WT Col-0 ,Control,,7_day,,Control,1,20210804,Nolan_7191,v3.1,11614,21930,6359,2377
+sc_123,gtl1-1,gtl1,gtl1-1,Control,,7_day,,Control,1,20210804,Nolan_7191,v3.1,11141,22145,7475,2537
+sc_124,df1-1,df1,df1-1,Control,,7_day,,Control,1,20210804,Nolan_7191,v3.1,9058,21751,6572.5,2275.5
+sc_125,gtl1-1 df1-1,gtl1_df1,gtl1-1 df1-1,Control,,7_day,,Control,1,20210804,Nolan_7191,v3.1,10012,22457,8517,2714
+sc_126,WT,WT,WT Col-0 ,Control,,7_day,,Control,2,20210804,Nolan_7191,v3.1,7290,21885,9675,2822
+sc_127,gtl1-1,gtl1,gtl1-1,Control,,7_day,,Control,2,20210804,Nolan_7191,v3.1,11453,22057,6277,2299
+sc_128,df1-1,df1,df1-1,Control,,7_day,,Control,2,20210804,Nolan_7191,v3.1,6620,22152,11138.5,2978
+sc_129,gtl1-1 df1-1,gtl1_df1,gtl1-1 df1-1,Control,,7_day,,Control,2,20210804,Nolan_7191,v3.1,7622,22388,10281.5,3008
+sc_130,WT,WT,WT Col-0 ,Control,,7_day,,Control,1,20211001,Nolan_7335,v3.1,6589,21554,10327,2983
+sc_131,bri1-T,bri1_T,bri1-116 brl1 brl3 (bri1-T),Control,,7_day,,Control,1,20211001,Nolan_7335,v3.1,7621,22130,9461,3148
+sc_133,pGL2:BRI1-GFP_bri1-T,pGL2_BRI1_GFP_bri1_T,pGL2:BRI1-GFP/bri1-T,Control,,7_day,,Control,1,20211001,Nolan_7335,v3.1,5975,22518,11136,3370
+sc_134,WT,WT,WT Col-0 ,Control,,7_day,,Control,2,20211001,Nolan_7335,v3.1,7745,22305,10538,3038
+sc_135,bri1-T,bri1_T,bri1-116 brl1 brl3 (bri1-T),Control,,7_day,,Control,2,20211001,Nolan_7335,v3.1,5028,21909,11838,3550.5
+sc_137,pGL2:BRI1-GFP_bri1-T,pGL2_BRI1_GFP_bri1_T,pGL2:BRI1-GFP/bri1-T,Control,,7_day,,Control,2,20211001,Nolan_7335,v3.1,1903,21948,18497,4085
