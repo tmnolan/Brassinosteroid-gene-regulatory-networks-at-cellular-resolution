@@ -43,4 +43,4 @@ vignettes/*.pdf
 
 # Large data files
 data/wot_input.h5ad
-output/wot/diff-exp/*
+output/wot/*
