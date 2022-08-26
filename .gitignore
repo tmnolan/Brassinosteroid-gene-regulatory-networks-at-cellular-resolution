@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Jupyter notebook checkpoints
+*.ipynb_checkpoints*
+
+# Large data files
+data/wot_input.h5ad
+output/wot/diff-exp/*
