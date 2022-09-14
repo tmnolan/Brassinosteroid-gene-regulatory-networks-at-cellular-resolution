@@ -8,7 +8,7 @@ Visit [ARVEX](https://shiny.mdc-berlin.de/ARVEX/) to interactively view the data
 
 ## Data
 
-Raw and processed scRNA-seq data associated with this study are available on GEO: GSE212230
+Raw and processed scRNA-seq data associated with this study are available on GEO: [GSE212230](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212230)
 
 input files for the notebooks below are under `data/`. Note that files larger than github's size limit can be downloaded from [ARVEX](https://shiny.mdc-berlin.de/ARVEX/).
 
