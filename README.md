@@ -1,6 +1,18 @@
 # Brassinosteroid gene regulatory networks at cellular resolution
 
-This repository contains the code to reproduce the analysis described in [link to preprint] 
+This repository contains the code to reproduce the analysis described in the preprint "Brassinosteroid gene regulatory networks at cellular resolution" 
+
+## Arabidopsis Root Virtual Expression eXplorer (ARVEX)
+
+Visit [ARVEX](https://shiny.mdc-berlin.de/ARVEX/) to interactively view the data associated with this study. 
+
+## Data
+
+Raw and processed scRNA-seq data associated with this study are available on GEO: GSE212230
+
+input files for the notebooks below are under `data/`. Note that files larger than github's size limit can be downloaded from [ARVEX](https://shiny.mdc-berlin.de/ARVEX/) to interactively view the data associated with this study. 
+
+## Notebooks 
 
 [01-Run_COPILOT_preprocessing](https://github.com/tmnolan/Brassinosteroid-gene-regulatory-networks-at-cellular-resolution/tree/master/COPILOT_preprocessing.ipynb)
 
