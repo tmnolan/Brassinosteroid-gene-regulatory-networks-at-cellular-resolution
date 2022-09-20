@@ -1,6 +1,6 @@
 # Brassinosteroid gene regulatory networks at cellular resolution
 
-This repository contains the code to reproduce the analysis described in the preprint "Brassinosteroid gene regulatory networks at cellular resolution" 
+This repository contains the code to reproduce the analysis described in [Brassinosteroid gene regulatory networks at cellular resolution]( https://doi.org/10.1101/2022.09.16.508001) 
 
 ## Arabidopsis Root Virtual Expression eXplorer (ARVEX)
 
