@@ -1,6 +1,6 @@
-# Brassinosteroid gene regulatory networks at cellular resolution
+# Brassinosteroid gene regulatory networks at cellular resolution in the Arabidopsis root
 
-This repository contains the code to reproduce the analysis described in [Brassinosteroid gene regulatory networks at cellular resolution]( https://doi.org/10.1101/2022.09.16.508001) 
+This repository contains the code to reproduce the analysis described in [Brassinosteroid gene regulatory networks at cellular resolution in the Arabidopsis root]( https://doi.org/10.1101/2022.09.16.508001) 
 
 ## Arabidopsis Root Virtual Expression eXplorer (ARVEX)
 
@@ -28,6 +28,8 @@ input files for the notebooks below are under `data/`. Note that files larger th
 
 [06-Differential_expression_analysis_bri1-T_vs_WT](https://github.com/tmnolan/Brassinosteroid-gene-regulatory-networks-at-cellular-resolution/tree/master/03-bri1-01-bri1-T_vs_WT-pseudobulk-DE.ipynb)
 
+[06-Differential_expression_analysis_BRZ_vs_Control](https://github.com/tmnolan/Brassinosteroid-gene-regulatory-networks-at-cellular-resolution/tree/master/04-BRZ-WT-BRZ-vs-Control-pseudobulk-DE.ipynb)
+
 [06-Differential_expression_analysis_pGL2-BRI1-GFP-bri1-T_vs_WT](https://github.com/tmnolan/Brassinosteroid-gene-regulatory-networks-at-cellular-resolution/tree/master/03-bri1-02-pGL2-BRI1-GFP-bri1-T_vs_WT-pseudobulk-DE.ipynb)
 
 [06-Differential_expression_analysis_pGL2-BRI1-GFP-bri1-T_vs_bri1-T](https://github.com/tmnolan/Brassinosteroid-gene-regulatory-networks-at-cellular-resolution/tree/master/03-bri1-03-pGL2-BRI1-GFP-bri1-T_vs_bri1-T-pseudobulk-DE.ipynb)
@@ -53,6 +55,8 @@ input files for the notebooks below are under `data/`. Note that files larger th
 [08-CellOracle_WT_GRNs](https://github.com/tmnolan/Brassinosteroid-gene-regulatory-networks-at-cellular-resolution/tree/master/06-GRNs-02-CellOracle-WT-GRN-configs.ipynb)
 
 [08-CellOracle_BR_GRNs](https://github.com/tmnolan/Brassinosteroid-gene-regulatory-networks-at-cellular-resolution/tree/master/06-GRNs-03-CellOracle-BR-GRN-configs.ipynb)
+
+[08-CellOracle_compare_GRNs](https://github.com/tmnolan/Brassinosteroid-gene-regulatory-networks-at-cellular-resolution/tree/master/06-GRNs-06-CellOracle-vs-bulk-GRN.ipynb)
 
 [09-WOT_compute_trajectories](https://github.com/tmnolan/Brassinosteroid-gene-regulatory-networks-at-cellular-resolution/tree/master/wot1-compute-trajectories.ipynb)
 
